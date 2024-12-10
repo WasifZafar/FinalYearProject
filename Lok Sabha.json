@@ -1,0 +1,263 @@
+{
+	"Lok Sabha": {
+	  "AN": {
+		"name": "Andaman and Nicobar Islands",
+		"seats": ["Andaman and Nicobar Islands"]
+	  },
+	  "AP": {
+		"name": "Andhra Pradesh",
+		"seats": [
+		  "Araku", "Srikakulam", "Vizianagaram", "Visakhapatnam", "Anakapalli",
+		  "Kakinada", "Amalapuram", "Rajahmundry", "Narasapuram", "Eluru",
+		  "Machilipatnam", "Vijayawada", "Guntur", "Narasaraopet", "Bapatla",
+		  "Ongole", "Nandyal", "Kurnool", "Anantapur", "Hindupur", "Kadapa",
+		  "Nellore", "Tirupati", "Rajampet", "Chittoor"
+		]
+	  },
+	  "AR": {
+		"name": "Arunachal Pradesh",
+		"seats": ["Arunachal West", "Arunachal East"]
+	  },
+	  "AS": {
+		"name": "Assam",
+		"seats": [
+		  "Kokrajhar", "Dhubri", "Barpeta", "Darrang-Udalguri", "Guwahati",
+		  "Diphu", "Karimganj", "Silchar", "Nowgong", "Kaziranga", "Sonitpur",
+		  "Lakhimpur", "Dibrugarh", "Jorhat"
+		]
+	  },
+	  "BR": {
+		"name": "Bihar",
+		"seats": [
+		  "Valmiki Nagar", "Paschim Champaran", "Purvi Champaran", "Sheohar",
+		  "Sitamarhi", "Madhubani", "Jhanjharpur", "Supaul", "Araria",
+		  "Kishanganj", "Katihar", "Purnia", "Madhepura", "Darbhanga",
+		  "Muzaffarpur", "Vaishali", "Gopalganj", "Siwan", "Maharajganj",
+		  "Saran", "Hajipur", "Ujiarpur", "Samastipur", "Begusarai",
+		  "Khagaria", "Bhagalpur", "Banka", "Munger", "Nalanda", "Patna Sahib",
+		  "Pataliputra", "Arrah", "Buxar", "Sasaram", "Karakat", "Jahanabad",
+		  "Aurangabad", "Gaya", "Nawada", "Jamui"
+		]
+	  },
+	  "CH": {
+		"name": "Chandigarh",
+		"seats": ["Chandigarh"]
+	  },
+	  "CG": {
+		"name": "Chhattisgarh",
+		"seats": [
+		  "Sarguja", "Raigarh", "Janjgir–Champa", "Korba", "Bilaspur",
+		  "Rajnandgaon", "Durg", "Raipur", "Mahasamund", "Bastar", "Kanker"
+		]
+	  },
+	  "DN": {
+		"name": "Dadra and Nagar Haveli and Daman and Diu",
+		"seats": ["Daman and Diu", "Dadra and Nagar Haveli"]
+	  },
+	  "DL": {
+		"name": "Delhi",
+		"seats": [
+		  "Chandni Chowk", "North East Delhi", "East Delhi", "New Delhi",
+		  "North West Delhi", "West Delhi", "South Delhi"
+		]
+	  },
+	  "GA": {
+		"name": "Goa",
+		"seats": ["North Goa", "South Goa"]
+	  },
+	  "GJ": {
+		"name": "Gujarat",
+		"seats": [
+		  "Kachchh", "Banaskantha", "Patan", "Mahesana", "Sabarkantha",
+		  "Gandhinagar", "Ahmedabad East", "Ahmedabad West", "Surendranagar",
+		  "Rajkot", "Porbandar", "Jamnagar", "Junagadh", "Amreli", "Bhavnagar",
+		  "Anand", "Kheda", "Panchmahal", "Dahod", "Vadodara", "Chhota Udaipur",
+		  "Bharuch", "Bardoli", "Surat", "Navsari", "Valsad"
+		]
+	  },
+	  "HR": {
+		"name": "Haryana",
+		"seats": [
+		  "Ambala", "Kurukshetra", "Sirsa", "Hisar", "Karnal", "Sonipat",
+		  "Rohtak", "Bhiwani–Mahendragarh", "Gurgaon", "Faridabad"
+		]
+	  },
+	  "HP": {
+		"name": "Himachal Pradesh",
+		"seats": ["Kangra", "Mandi", "Hamirpur", "Shimla"]
+	  },
+	  "JK": {
+		"name": "Jammu and Kashmir",
+		"seats": ["Srinagar", "Jammu", "Anantnag–Rajouri", "Baramulla", "Udhampur"]
+	  },
+	  "JH": {
+		"name": "Jharkhand",
+		"seats": [
+		  "Ranchi", "Rajmahal", "Dumka", "Godda", "Chatra", "Koderma",
+		  "Giridih", "Dhanbad", "Jamshedpur", "Singhbhum", "Khunti",
+		  "Lohardaga", "Palamu", "Hazaribagh"
+		]
+	  },
+	  "KA": {
+		"name": "Karnataka",
+		"seats": [
+		  "Chikkodi", "Belgaum", "Bagalkot", "Bijapur", "Gulbarga", "Raichur",
+		  "Bidar", "Koppal", "Bellary", "Haveri", "Dharwad", "Uttara Kannada",
+		  "Davanagere", "Shimoga", "Udupi Chikmagalur", "Hassan",
+		  "Dakshina Kannada", "Chitradurga", "Tumkur", "Mandya", "Mysore",
+		  "Chamarajanagar", "Bangalore Rural", "Bangalore North",
+		  "Bangalore Central", "Bangalore South", "Chikballapur", "Kolar"
+		]
+	  },
+	  "KL": {
+		"name": "Kerala",
+		"seats": [
+		  "Thiruvananthapuram", "Kasaragod", "Kannur", "Vatakara", "Wayanad",
+		  "Kozhikode", "Malappuram", "Ponnani", "Palakkad", "Alathur", "Thrissur",
+		  "Chalakudy", "Ernakulam", "Idukki", "Kottayam", "Alappuzha",
+		  "Mavelikara", "Pathanamthitta", "Kollam", "Attingal"
+		]
+	  },
+	  "LA": {
+		"name": "Ladakh",
+		"seats": ["Ladakh"]
+	  },
+	  "LD": {
+		"name": "Lakshadweep",
+		"seats": ["Lakshadweep"]
+	  },
+	  "MP": {
+		"name": "Madhya Pradesh",
+		"seats": [
+		  "Morena", "Bhind", "Gwalior", "Guna", "Sagar", "Tikamgarh", "Damoh",
+		  "Khajuraho", "Satna", "Rewa", "Sidhi", "Shahdol", "Jabalpur", "Mandla",
+		  "Balaghat", "Chhindwara", "Narmadapuram", "Vidisha", "Bhopal",
+		  "Rajgarh", "Dewas", "Ujjain", "Mandsaur", "Ratlam", "Dhar", "Indore",
+		  "Khargone", "Khandwa", "Betul"
+		]
+	  },
+	  "MH": {
+		"name": "Maharashtra",
+		"seats": [
+		  "Nandurbar", "Dhule", "Jalgaon", "Raver", "Buldhana", "Akola",
+		  "Amravati", "Wardha", "Ramtek", "Nagpur", "Bhandara–Gondiya",
+		  "Gadchiroli–Chimur", "Chandrapur", "Yavatmal–Washim", "Hingoli",
+		  "Nanded", "Parbhani", "Jalna", "Aurangabad", "Dindori", "Nashik",
+		  "Palghar", "Bhiwandi", "Kalyan", "Thane", "Mumbai North",
+		  "Mumbai North West", "Mumbai North East", "Mumbai North Central",
+		  "Mumbai South Central", "Mumbai South", "Raigad", "Maval", "Pune",
+		  "Baramati", "Shirur", "Ahmednagar", "Shirdi", "Beed", "Osmanabad",
+		  "Latur", "Solapur", "Madha", "Sangli", "Satara", "Ratnagiri–Sindhudurg",
+		  "Kolhapur","Hatkanangle"]
+      },
+	  
+  "MN": {
+	"name": "Manipur",
+	"seats": ["Inner Manipur", "Outer Manipur"]
+  },
+  "ML": {
+	"name": "Meghalaya",
+	"seats": ["Shillong", "Tura"]
+  },
+  "MZ": {
+	"name": "Mizoram",
+	"seats": ["Mizoram"]
+  },
+  "NL": {
+	"name": "Nagaland",
+	"seats": ["Nagaland"]
+  },
+  "OD": {
+	"name": "Odisha",
+	"seats": [
+	  "Kalahandi", "Nabarangpur", "Berhampur", "Koraput", "Aska", "Bhubaneswar",
+	  "Cuttack", "Kendrapara", "Jagatsinghpur", "Jajpur", "Balasore", "Bhadrak",
+	  "Dhenkanal", "Keonjhar", "Mayurbhanj", "Sundargarh", "Sambalpur", "Bargarh",
+	  "Bolangir"
+	]
+  },
+  "PB": {
+	"name": "Punjab",
+	"seats": [
+	  "Gurdaspur", "Amritsar", "Khadoor Sahib", "Jalandhar", "Hoshiarpur",
+	  "Anandpur Sahib", "Ludhiana", "Fatehgarh Sahib", "Faridkot", "Firozpur",
+	  "Bathinda", "Sangrur", "Patiala"
+	]
+  },
+  "RJ": {
+	"name": "Rajasthan",
+	"seats": [
+	  "Ganganagar", "Bikaner", "Churu", "Jhunjhunu", "Sikar", "Jaipur Rural",
+	  "Jaipur", "Alwar", "Bharatpur", "Karauli–Dholpur", "Dausa", "Tonk–Sawai Madhopur",
+	  "Ajmer", "Nagaur", "Pali", "Jodhpur", "Barmer", "Jalore", "Udaipur", "Banswara",
+	  "Chittorgarh", "Bhilwara", "Kota", "Jhalawar–Baran"
+	]
+  },
+  "SK": {
+	"name": "Sikkim",
+	"seats": ["Sikkim"]
+  },
+  "TN": {
+	"name": "Tamil Nadu",
+	"seats": [
+	  "Thiruvallur", "Chennai North", "Chennai South", "Chennai Central",
+	  "Sriperumbudur", "Kanchipuram", "Arakkonam", "Vellore", "Krishnagiri",
+	  "Dharmapuri", "Tiruvannamalai", "Arani", "Villupuram", "Kallakurichi",
+	  "Salem", "Namakkal", "Erode", "Tiruppur", "Nilgiris", "Coimbatore",
+	  "Pollachi", "Dindigul", "Karur", "Tiruchirappalli", "Perambalur",
+	  "Cuddalore", "Chidambaram", "Mayiladuthurai", "Nagapattinam",
+	  "Thanjavur", "Sivaganga", "Madurai", "Theni", "Virudhunagar",
+	  "Ramanathapuram", "Thoothukudi", "Tenkasi", "Tirunelveli", "Kanyakumari"
+	]
+  },
+  "TS": {
+	"name": "Telangana",
+	"seats": [
+	  "Adilabad", "Peddapalli", "Karimnagar", "Nizamabad", "Zahirabad",
+	  "Medak", "Malkajgiri", "Secunderabad", "Hyderabad", "Chevella",
+	  "Mahbubnagar", "Nagarkurnool", "Nalgonda", "Bhongir", "Warangal",
+	  "Mahabubabad", "Khammam"
+	]
+  },
+  "TR": {
+	"name": "Tripura",
+	"seats": ["Tripura West", "Tripura East"]
+  },
+  "UP": {
+	"name": "Uttar Pradesh",
+	"seats": [
+	  "Saharanpur", "Kairana", "Muzaffarnagar", "Bijnor", "Nagina",
+	  "Moradabad", "Rampur", "Sambhal", "Amroha", "Meerut", "Baghpat",
+	  "Ghaziabad", "Gautam Buddha Nagar", "Bulandshahr", "Aligarh",
+	  "Hathras", "Mathura", "Agra", "Fatehpur Sikri", "Firozabad",
+	  "Mainpuri", "Etah", "Badaun", "Aonla", "Bareilly", "Pilibhit",
+	  "Shahjahanpur", "Kheri", "Dhaurahra", "Sitapur", "Hardoi", "Misrikh",
+	  "Unnao", "Mohanlalganj", "Lucknow", "Rae Bareli", "Amethi",
+	  "Sultanpur", "Pratapgarh", "Kaushambi", "Allahabad", "Barabanki",
+	  "Faizabad", "Basti", "Sant Kabir Nagar", "Maharajganj", "Gorakhpur",
+	  "Kushi Nagar", "Deoria", "Bansgaon", "Lalganj", "Azamgarh",
+	  "Ghosi", "Salempur", "Ballia", "Jaunpur", "Machhlishahr",
+	  "Ghazipur", "Chandauli", "Varanasi", "Bhadohi", "Mirzapur",
+	  "Robertsganj"
+	]
+  },
+  "UK": {
+	"name": "Uttarakhand",
+	"seats": ["Almora", "Nainital–Udhamsingh Nagar", "Haridwar", "Tehri Garhwal", "Pauri Garhwal"]
+  },
+  "WB": {
+	"name": "West Bengal",
+	"seats": [
+	  "Cooch Behar", "Alipurduars", "Jalpaiguri", "Darjeeling", "Raiganj",
+	  "Balurghat", "Maldaha Uttar", "Maldaha Dakshin", "Jangipur",
+	  "Murshidabad", "Berhampore", "Krishnanagar", "Ranaghat", "Bangaon",
+	  "Barrackpore", "Dum Dum", "Barasat", "Basirhat", "Joynagar",
+	  "Mathurapur", "Diamond Harbour", "Jadavpur", "Kolkata Dakshin",
+	  "Kolkata Uttar", "Howrah", "Uluberia", "Srirampur", "Hooghly",
+	  "Arambagh", "Tamluk", "Kanthi", "Ghatal", "Jhargram", "Medinipur",
+	  "Purulia", "Bankura", "Bishnupur", "Bardhaman Purba",
+	  "Bardhaman–Durgapur", "Asansol", "Bolpur", "Birbhum"
+	]
+  }
+}
+}

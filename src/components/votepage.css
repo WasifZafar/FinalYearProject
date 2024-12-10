@@ -1,0 +1,198 @@
+.vote-box {
+    max-width: 700px;
+    margin: 80px auto ;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    /* text-align: center; */
+    font-size: 16px;
+    color: #000;
+
+  }
+  
+  .vote-box h2 {
+    color: #0078d4;
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .vote-box label {
+    display: block;
+    font-size: 17px;
+    color: #000;
+    margin-bottom: 8px;
+    text-align: left;
+    font-weight: 600;
+  }
+  
+  .vote-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #b5b5b5;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .vote-box input:focus {
+    border-color: #0078d4;
+    outline: none;
+  }
+  
+  .elector-profile {
+    display: flex;
+   justify-content: space-evenly;
+   padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    align-items: center;
+    
+  }
+  
+  .elector-profile h3 {
+    font-size: 20px;
+    color: #0078d4;
+    margin-bottom: 10px;
+  }
+  
+  .elector-profile img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+  
+  }
+  
+  .elector-profile p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .status1{
+    color: green;
+    font-weight: 600;
+  }
+  .error1{
+    color: red;
+  }
+
+  .party-list{
+    text-align:center ;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+   
+  .party-list h3{
+    font-size: 20px;
+    color: red;
+  }
+
+  .party-cards {
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: #fff;;
+  }
+ .card-mid{
+  padding: 0 5px;
+ }
+ .card-mid h4{
+  font-size: 16px;
+ }
+ .card-mid p {
+  color: #0078d4;;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 14px;
+ }
+  
+  .party-cards img {
+    border-radius: 50%;
+  }
+  
+
+  .party-cards button {
+    background-color: #0078d4;
+    color: white;
+    padding: 1.4vmax;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin: 0;
+  }
+  
+  .party-cards button:hover {
+    background-color: red;
+    transition: background-color 0.3s ease;
+  }
+  
+  .party-cards button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
+  
+  .popup {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
+  
+  .popup-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+    
+  }
+  
+  .popup h3 {
+    color: green;
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  
+  .popup p {
+    color: #323232;
+    font-size: 16px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+  
+     .vote-box {
+      padding: 20px;
+      
+    } 
+  
+    .vote-box h2 {
+      font-size: 22px;
+    }
+  
+    .elector-profile h3 {
+      font-size: 18px;
+    }
+  
+    .elector-profile p {
+      font-size: 15px;
+    }
+  }
+  
+ 
