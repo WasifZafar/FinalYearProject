@@ -58,7 +58,7 @@ const App = () => {
       {/* Main content area */}
       <main>
         <Routes>
-          <Route path="FinalYearProject/" element={<Home />} />
+          <Route path="/FinalYearProject/" element={<Home />} />
           <Route path="/register-electoral" element={<ElectoralRegister />} />
           <Route path="/update-elector" element={<UpdateElector />} />
           <Route path="/register-parties" element={<PoliticalPartiesRegister />} />
