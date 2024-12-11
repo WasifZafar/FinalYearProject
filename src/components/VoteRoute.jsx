@@ -8,10 +8,10 @@ const ElectoralPage = () => {
     <div className="container">
       <h1>Welcome Voter To Voting Page... </h1>
       <div className="button-cover">
-      <button className="button1" onClick={() => navigate("/vote")}>
+      <button className="button1" onClick={() => navigate("/FinalYearProject/vote")}>
        Main Voting
       </button>
-      <button className="button1" onClick={() => navigate("/test-vote")}>
+      <button className="button1" onClick={() => navigate("/FinalYearProject/test-vote")}>
        Test Voting
       </button></div>
     </div>

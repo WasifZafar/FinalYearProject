@@ -139,7 +139,7 @@
     cursor: not-allowed;
   }
   
-  .popup {
+  .popups {
     position: fixed;
     bottom: 0;
     right: 0;
@@ -163,13 +163,13 @@
     
   }
   
-  .popup h3 {
+  .popups h3 {
     color: green;
     margin-bottom: 10px;
     font-size: 22px;
   }
   
-  .popup p {
+  .popups p {
     color: #323232;
     font-size: 16px;
   }

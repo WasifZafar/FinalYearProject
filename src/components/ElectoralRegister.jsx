@@ -135,7 +135,7 @@ const ElectoralRegister = () => {
 
   const handlePopupClose = () => {
     setShowSuccessPopup(false);
-    navigate('/');
+    navigate('/FinalYearProject/');
   };
 
   const handleKeyPress = (e) => {

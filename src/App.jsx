@@ -47,10 +47,10 @@ const App = () => {
         <nav className={`nav-links ${menuOpen ? 'open' : ''}`}>
           <ul>
             <li><Link to="/FinalYearProject/" onClick={closeMenu}>Home</Link></li>
-            <li><Link to="/electoral-page/" onClick={closeMenu}>Electoral Page</Link></li>
-            <li><Link to="/register-parties/" onClick={closeMenu}>Political Parties </Link></li>
-            <li><Link to="/vote-route/" onClick={closeMenu}>Vote</Link></li>
-            <li><Link to="/private/" onClick={closeMenu}>Private</Link></li>
+            <li><Link to="/FinalYearProject/electoral-page" onClick={closeMenu}>Electoral Page</Link></li>
+            <li><Link to="/FinalYearProject/register-parties" onClick={closeMenu}>Political Parties </Link></li>
+            <li><Link to="/FinalYearProject/vote-route" onClick={closeMenu}>Vote</Link></li>
+            <li><Link to="/FinalYearProject/private" onClick={closeMenu}>Private</Link></li>
           </ul>
         </nav>
       </header>
@@ -59,16 +59,16 @@ const App = () => {
       <main>
         <Routes>
           <Route path="/FinalYearProject/" element={<Home />} />
-          <Route path="/register-electoral/" element={<ElectoralRegister />} />
-          <Route path="/update-elector/" element={<UpdateElector />} />
-          <Route path="/register-parties/" element={<PoliticalPartiesRegister />} />
-          <Route path="/vote/" element={<VotePage />} />
-          <Route path="/vote-count/" element={<VoteCount />} />
-          <Route path="/admin-panel/" element={<AdminPanel />} />
-          <Route path="/electoral-page/" element={<ElectoralPage />} />
-          <Route path="/private/" element={<Private />} />
-          <Route path="/test-vote/" element={<TestVote />} />
-          <Route path="/vote-route/" element={<VoteRoute />} />
+          <Route path="/FinalYearProject/register-electoral" element={<ElectoralRegister />} />
+          <Route path="/FinalYearProject/update-elector" element={<UpdateElector />} />
+          <Route path="/FinalYearProject/register-parties" element={<PoliticalPartiesRegister />} />
+          <Route path="/FinalYearProject/vote" element={<VotePage />} />
+          <Route path="/FinalYearProject/vote-count" element={<VoteCount />} />
+          <Route path="/FinalYearProject/admin-panel" element={<AdminPanel />} />
+          <Route path="/FinalYearProject/electoral-page" element={<ElectoralPage />} />
+          <Route path="/FinalYearProject/private" element={<Private />} />
+          <Route path="/FinalYearProject/test-vote" element={<TestVote />} />
+          <Route path="/FinalYearProject/vote-route" element={<VoteRoute />} />
         </Routes>
       </main>
 

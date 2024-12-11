@@ -157,7 +157,7 @@ const VotePage = () => {
  
       {/* Success Popup */}
       {showPopup && (
-        <div className="popup">
+        <div className="popups">
           <div className="popup-content">
             <h3>Vote Successful!</h3>
             <p>Thank you for casting your vote. The page will reset now.</p>
