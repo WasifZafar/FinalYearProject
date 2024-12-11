@@ -46,7 +46,7 @@ const App = () => {
         {/* Navigation links */}
         <nav className={`nav-links ${menuOpen ? 'open' : ''}`}>
           <ul>
-            <li><Link to="/" onClick={closeMenu}>Home</Link></li>
+            <li><Link to="/FinalYearProject/" onClick={closeMenu}>Home</Link></li>
             <li><Link to="/electoral-page" onClick={closeMenu}>Electoral Page</Link></li>
             <li><Link to="/register-parties" onClick={closeMenu}>Political Parties </Link></li>
             <li><Link to="/vote-route" onClick={closeMenu}>Vote</Link></li>
